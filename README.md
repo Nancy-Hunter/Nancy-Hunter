@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I’m currently working on a little bit of everything. Contact me to find out more about my current projects
+- I’m a lifelong student. Always ready to learn something new
+  
+ Pronouns: She
+
+
+
 <!--
 **Nancy-Hunter/Nancy-Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
