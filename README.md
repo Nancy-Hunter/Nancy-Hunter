@@ -7,8 +7,9 @@
 
 - 📫 How to reach me **hunternancym@gmail.com**
 
-- ⚡ Fun fact **Coding is my passion, cats are my forte**
-- pronouns: she
+- 🐈 Fun fact **Coding is my passion, cats are my forte**
+  
+- 😎 Pronouns: She
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
