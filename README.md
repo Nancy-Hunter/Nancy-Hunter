@@ -3,7 +3,7 @@
 
 - 🌱 I’m a lifelong student. **Always ready to learn something new**
 
-- 👨‍💻 All of my projects are available at [https://nancy-hunter.netlify.app/](nancy-hunter.netlify.app)
+- 👨‍💻 All of my projects are available at [nancy-hunter.netlify.app](https://nancy-hunter.netlify.app/)
 
 - 📫 How to reach me **hunternancym@gmail.com**
 
