@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nancy Hunter</h1>
+<h1 align="center">Hi, I'm Nancy Hunter</h1>
 <h3 align="center">I’m a software engineer from Charlotte, North Carolina</h3>
 
 - 🌱 I’m a lifelong student. **Always ready to learn something new**
