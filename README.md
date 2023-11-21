@@ -1,25 +1,30 @@
-<div display= "-webkit-box"
-    display ="ms-flexbox"
-    display="block"
-    margin= "auto"
-    -webkit-box-orient= "vertical"
-    -webkit-box-direction= "normal"
-    -ms-flex-direction= "column"
-    flex-direction= "column"
-    -webkit-box-pack = "center"
-    -ms-flex-pack= "center"
-    justify-content= "center"
-    -webkit-box-align= "center"
-    -ms-flex-align= "center"
-    align-items= "center"
-    background= "repeating-radial-gradient(circle at 100% 100%, rgba(255, 190, 11, 0.5) 4%, rgba(255, 190, 11, 0.5) 8%, rgba(251, 86, 7, 0.5) 8%, rgba(251, 86, 7, 0.5) 12%, rgba(255, 0, 110, 0.5) 12%, rgba(255, 0, 110, 0.5) 16%, rgba(131, 56, 236, 0.5) 16%, rgba(131, 56, 236, 0.8) 20%, rgba(58, 134, 255, 0.5) 20%, rgba(58, 134, 255, 0.5) 24%), repeating-radial-gradient(circle at 0% 100%, rgba(255, 190, 11, 0.7) 4%, rgba(255, 190, 11, 0.9) 8%, rgba(251, 86, 7, 0.7) 8%, rgba(251, 86, 7, 0.9) 12%, rgba(255, 0, 110, 0.7) 12%, rgba(255, 0, 110, 0.9) 16%, rgba(131, 56, 236, 0.8) 16%, rgba(131, 56, 236, 0.8) 20%, rgba(58, 134, 255, 0.8) 20%, rgba(58, 134, 255, 0.8) 24%)"
-    background-size= "250px 250px"
-    background-position= "0 0"
-    -webkit-animation= "stripes 3s linear infinite"
-    animation= "stripes 3s linear infinite"
-    background-clip= "text"
-    -webkit-background-clip= "text"
-    color= "transparent">
+<style>
+     div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+    margin: auto;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: repeating-radial-gradient(circle at 100% 100%, rgba(255, 190, 11, 0.5) 4%, rgba(255, 190, 11, 0.5) 8%, rgba(251, 86, 7, 0.5) 8%, rgba(251, 86, 7, 0.5) 12%, rgba(255, 0, 110, 0.5) 12%, rgba(255, 0, 110, 0.5) 16%, rgba(131, 56, 236, 0.5) 16%, rgba(131, 56, 236, 0.8) 20%, rgba(58, 134, 255, 0.5) 20%, rgba(58, 134, 255, 0.5) 24%), repeating-radial-gradient(circle at 0% 100%, rgba(255, 190, 11, 0.7) 4%, rgba(255, 190, 11, 0.9) 8%, rgba(251, 86, 7, 0.7) 8%, rgba(251, 86, 7, 0.9) 12%, rgba(255, 0, 110, 0.7) 12%, rgba(255, 0, 110, 0.9) 16%, rgba(131, 56, 236, 0.8) 16%, rgba(131, 56, 236, 0.8) 20%, rgba(58, 134, 255, 0.8) 20%, rgba(58, 134, 255, 0.8) 24%);
+    background-size: 250px 250px;
+    background-position: 0 0;
+    -webkit-animation: stripes 3s linear infinite;
+    animation: stripes 3s linear infinite;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+</style>
+<div>
     <h1 align="center">Hi, I'm Nancy Hunter</h1>
     <h3 align="center">I’m a software engineer from Charlotte, North Carolina</h3>
 </div>
