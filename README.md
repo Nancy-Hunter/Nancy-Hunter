@@ -1,5 +1,4 @@
-<h1 align="center"
-    display= "-webkit-box"
+<div display= "-webkit-box"
     display ="ms-flexbox"
     display="block"
     margin= "auto"
@@ -20,9 +19,12 @@
     animation= "stripes 3s linear infinite"
     background-clip= "text"
     -webkit-background-clip= "text"
-    color= "transparent"
->Hi, I'm Nancy Hunter</h1>
-<h3 align="center">I’m a software engineer from Charlotte, North Carolina</h3>
+    color= "transparent">
+    <h1 align="center">Hi, I'm Nancy Hunter</h1>
+    <h3 align="center">I’m a software engineer from Charlotte, North Carolina</h3>
+</div>
+
+
 
 - 🌱 I’m a lifelong student. **Always ready to learn something new**
 
