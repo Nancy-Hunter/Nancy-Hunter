@@ -23,6 +23,12 @@
     -webkit-background-clip: text;
     color: transparent;
 }
+ h1 {
+    font-size: 3rem;
+    font-family: sans-serif;
+    display: block;
+    margin: auto;
+}
 </style>
 <div>
     <h1 align="center">Hi, I'm Nancy Hunter</h1>
